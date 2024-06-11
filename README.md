@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Check Github](https://your-solution-url.com)
-- Live Site URL: [Check Live Project](https://your-live-site-url.com)
+- Solution URL: [Check Github](https://github.com/prajjwalag/FrontEndMentor_Social-Links-Profile)
+- Live Site URL: [Check Live Project](https://prajjwalag.github.io/FrontEndMentor_Social-Links-Profile/)
 
 ## My process
 
